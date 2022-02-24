@@ -1,0 +1,49 @@
+body {
+
+background-color: rgb(101, 76, 79);
+
+
+}
+
+.main div{
+
+
+display: flex;
+ color: purple;
+justify-content: center;
+
+}
+
+
+.organizations > div{
+ margin-top: 100px;
+  background-color: rgb(157, 169, 160);
+}
+
+
+.organizations div>h4{
+  color: rgb(139, 30, 63);
+   margin: 40px;
+
+}
+
+.organizations1{
+  display: flex;
+  flex-direction: column;
+}
+
+.organizations2{
+  display; flex;
+  flex-direction: column;
+}
+.organizations{
+  display: flex;
+  flex-direction: column;
+}
+
+.main div h4:first-child{
+font-size: 57px;
+text-decoration-color: blue;
+text-decoration: overline;
+
+}
